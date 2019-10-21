@@ -1,1 +1,1 @@
-# Drawing graphic (Basic Program in R language)
+# Drawing Pizza (Basic Program in R language)
